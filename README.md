@@ -3,5 +3,5 @@
 - Implement certain functions required to build a RNN.
 - Understand how the forward propagation, backward propagation work in RNN.
 - Build a model using RNN layer to
-  - (1)model a Sinusoidal wave and
-  - (2)classify human activity.
+  - model a Sinusoidal wave and
+  - classify human activity.
